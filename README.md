@@ -19,7 +19,7 @@ Steps:
 
 - >Example: Demo2.mp4
 </br>
-5.Input the Output file taget path ending with Double-slash: \\\\ </br>
+5.Input the Output file taget path ending with Double-slash: \\ </br>
 
 - >Example: E:\\\\Output\\\\
 </br>
